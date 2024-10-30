@@ -1,0 +1,53 @@
+# LaTeX generated files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.log
+*.nav
+*.out
+*.ps
+*.snm
+*.toc
+*.vrb
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.xdv
+
+# Editors
+*~ 
+*.swp
+*.swo
+
+# Exclude all .tex files except chapterX.tex
+*.tex
+!latex/volumes/volume\ 1/main.tex
+!latex/volumes/volume\ 1/chapters/chapter1.tex
+!latex/volumes/volume\ 1/chapters/chapter2.tex
+!latex/volumes/volume\ 1/chapters/chapter3.tex
+!latex/volumes/volume\ 1/chapters/chapter4.tex
+!latex/volumes/volume\ 1/chapters/chapter5.tex
+!latex/volumes/volume\ 1/chapters/chapter6.tex
+!latex/volumes/volume\ 1/chapters/chapter7.tex
+!latex/volumes/volume\ 1/chapters/chapter8.tex
+!latex/volumes/volume\ 1/chapters/chapter9.tex
+!latex/volumes/volume\ 1/chapters/chapter10.tex
+!latex/volumes/volume\ 1/chapters/chapter11.tex
+!latex/volumes/volume\ 1/chapters/chapter12.tex
+!latex/volumes/volume\ 1/chapters/chapter13.tex
+!latex/volumes/volume\ 1/chapters/chapter14.tex
+!latex/volumes/volume\ 1/chapters/chapter15.tex
+!latex/volumes/volume\ 1/chapters/chapter16.tex
+!latex/volumes/volume\ 1/chapters/chapter17.tex
+!latex/volumes/volume\ 1/chapters/chapter18.tex
+!latex/volumes/volume\ 1/chapters/chapter19.tex
+!latex/volumes/volume\ 1/chapters/chapter20.tex
+!latex/volumes/volume\ 1/chapters/chapter21.tex
+!latex/volumes/volume\ 1/chapters/chapter22.tex
+!latex/volumes/volume\ 1/chapters/chapter23.tex
+!latex/volumes/volume\ 1/chapters/chapter24.tex
+
+# Exclude jupyter notebooks
+*.ipynb
