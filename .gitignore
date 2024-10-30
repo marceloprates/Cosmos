@@ -16,6 +16,8 @@
 *.synctex.gz
 *.xdv
 
+*.html
+
 # Editors
 *~ 
 *.swp
