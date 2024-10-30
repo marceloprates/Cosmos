@@ -6,6 +6,6 @@
 
 > There is a lot of work to be done yet, but I'm releasing the first 26 chapters of the first volume here. I'm open to typo corrections and suggestions in general.
 
-## You can download the PDF file [here](https://docs.google.com/viewer?url=https://raw.githubusercontent/marceloprates/Cosmos/main/latex/volumes/volume%201/cosmos.pdf).
+## You can download the PDF file [here](https://raw.githubusercontent.com/marceloprates/Cosmos/main/latex/volumes/volume%201/cosmos.pdf).
 
 ![](latex/pictures/cosmos-cover.png)
